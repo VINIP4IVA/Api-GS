@@ -26,4 +26,4 @@ Documentação interativa: http://127.0.0.1:8000/docs
 | DELETE | /tarefas/{id} | Remove tarefa |
 
 ## Autor
-Seu Nome
+Vinicius Paiva B. Amorim
